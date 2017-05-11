@@ -1,0 +1,12 @@
+{
+  "name": "metadata",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/claudgent/file-metadata.git",
+  "author": "Claudio Gentile <claudgent@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "multer": "^1.3.0"
+  }
+}
